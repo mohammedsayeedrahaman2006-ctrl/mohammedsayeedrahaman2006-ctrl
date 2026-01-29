@@ -37,5 +37,7 @@ I aim to start my career in **data analytics**, applying my skills to help busin
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-sayeed-ur-rahaman-073824324)  
-- 📧 Email: mohammedsayeedrahaman2006@gmail.com  
+- 📧 Email: mohammedsayeedrahaman2006@gmail.com
+- - 🌐 Portfolio: [https://github.com/mohammedsayeedrahaman2006-ctrl]
+
 
